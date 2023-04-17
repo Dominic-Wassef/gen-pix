@@ -1,0 +1,7 @@
+[package]
+name = "gen-pix"
+version = "0.1.0"
+authors = ["Dominic Wassef <dominic@wassef.dev>"]
+
+[dependencies]
+genpixlib = { path = "genpixlib" }
